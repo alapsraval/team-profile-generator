@@ -45,4 +45,4 @@ Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Screencast
 
-[![Team Profile Generator](/screenshot.png)](https://youtu.be)
+[![Team Profile Generator](/screenshot.png)](https://youtu.be/gFS165XjitA)
